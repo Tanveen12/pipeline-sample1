@@ -87,3 +87,5 @@ docker-compose up -d
 ```bash
 docker-compose up -d --build
 ```
+
+Visit the site on localhost:80
